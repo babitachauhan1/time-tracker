@@ -103,4 +103,11 @@
             </plugin>
         </plugins>
     </reporting>
+         <distributionManagement>
+        <repository>
+            <id>Mvn_Jenkins</id>
+            <url>http://192.168.0.42:8081/repository/Mvn_Jenkins/</url>
+        </repository>
+       
+    </distributionManagement>
 </project>
