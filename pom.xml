@@ -106,7 +106,7 @@
          <distributionManagement>
         <repository>
             <id>mv</id>
-            <url>http://192.168.0.42:8081/repository/Mvn_Jenkins/</url>
+            <url>http://192.168.0.49:8081/repository/Mvn_Jenkins/</url>
         </repository>
        
     </distributionManagement>
